@@ -6,16 +6,16 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/juliosn/simple_calculator-app?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/juliosn/simple_calculator-app?style=for-the-badge)
 
-<h2>Tela Inicial</h2>
+<h2>Main Screen</h2>
 <img src="https://github.com/juliosn/simple_calculator-app/assets/99426563/c206b0e9-2d2e-4445-99b8-ecf05b198a51">
 
 
-> Projeto acadêmico realizdo em 2023 que consiste na criação de um aplicativo de calculadora.
+> Academic project carried out in 2023 that consists of the creation of a calculator application.
 
-### Ajustes e melhorias
+### Adjustments and Improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still under development and the next updates will focus on the following tasks:
 
-- [ ] Melhorar interface do aplicativo
-- [ ] Adicionar outros cálculos, unidades de medida etc.
+- [ ] Improve app's interface
+- [ ] Add other calculations, units of measurement and others.
 
